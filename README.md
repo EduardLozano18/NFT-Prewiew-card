@@ -1,3 +1,7 @@
+website 
+https://eduardlozano18.github.io/NFT-Prewiew-card/
+
+
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
